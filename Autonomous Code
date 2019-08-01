@@ -1,0 +1,11 @@
+task main()
+{
+//(insert encoder move forward code here from lindsey's old groups git hub);
+
+delay(1000);
+//(we may have to change the time that the individual arm motor starts depending on how longit takes to get there
+motor[motor1]=30;
+
+
+
+}
